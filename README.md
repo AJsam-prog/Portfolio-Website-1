@@ -7,8 +7,6 @@ Here's a list of files and programs used in this project:
 - `main.css` (in the `css` folder): The CSS file containing styles for the website's layout and design.
 - `Gruntfile.js`: Grunt configuration file used for task automation.
 - `img` folder: Contains images used in the portfolio website.
-- `dist` folder: This folder may contain compiled or minified files, depending on the build process.
-- `package.json`: JSON file containing metadata and dependencies information for the project.
 
 # Additional Information
 Feel free to explore the code, suggest improvements, or use it as a reference for your own projects. If you have any questions or feedback, don't hesitate to reach out. Thank you for visiting my repository!
